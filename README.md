@@ -1,8 +1,8 @@
 数组方法
 一般数组方法有这么一些，大家不熟的可以自己多动动手指敲一敲
-join()
-push()和pop()
-shift() 和 unshift()
+>join()
+>push()和pop()
+>shift() 和 unshift()
 sort()
 reverse()
 concat()
