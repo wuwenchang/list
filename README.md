@@ -2,13 +2,13 @@
 
 一般数组方法有这么一些，大家不熟的可以自己多动动手指敲一敲
 
-1. **[join()](#1-join())**
-2. **[push()和pop()](#2-push()和pop())**
-3. **[shift()和unshift()](#3-shift()和unshift())**
-4. **[reverse()](#4-reverse())**
-5. **[concat()](#5-concat())**
-6. **[slice()](#6-slice())**
-7. **[splice()](#7-splice())**
+1. **[join()](#1-join)**
+2. **[push()和pop()](#2-push和pop)**
+3. **[shift()和unshift()](#3-shift和unshift)**
+4. **[reverse()](#4-reverse)**
+5. **[concat()](#5-concat)**
+6. **[slice()](#6-slice)**
+7. **[splice()](#7-splice)**
 8. **[indexOf()和 lastIndexOf() （ES5新增）](#8-indexOf()和 lastIndexOf() （ES5新增）)**
 9. **[forEach() （ES5新增）](#9-forEach() （ES5新增）)**
 10. **[map() （ES5新增）](#10-map() （ES5新增）)**
