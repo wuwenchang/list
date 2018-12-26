@@ -17,6 +17,7 @@
 13. **[reduce()和 reduceRight() （ES5新增）](#13-reduce()和 reduceRight() （ES5新增）)**
 14. **[filter() （ES5新增）](#14-filter() （ES5新增）)**
 15. **[sort()](#15-sort())**
+---
 
 ## 1. join()
 * 将数组的元素组起一个字符串，以separator为分隔符，省略的话则用默认用逗号为分隔符，该方法只接收一个参数：即分隔符。
@@ -34,6 +35,7 @@ function repeatString(str, n) {
 console.log(repeatString("abc", 3)); // abcabcabc
 console.log(repeatString("Hi", 5)); // HiHiHiHiHi
 ```
+ ---
  
 ## 2. push()和pop（）
 * push(): 可以接收任意数量的参数，把它们逐个添加到数组末尾，并返回修改后数组的长度。 
@@ -47,6 +49,8 @@ var item = arr.pop();
 console.log(item); // Sean
 console.log(arr); // ["Lily", "lucy", "Tom", "Jack"]
 ```
+---
+
 ## 3. shift()和unshift()
 * shift()：删除原数组第一项，并返回删除元素的值；如果数组为空则返回undefined 。 
 * unshift:将参数添加到原数组开头，并返回数组的长度 。
@@ -61,6 +65,7 @@ var item = arr.shift();
 console.log(item); // Jack
 console.log(arr); // ["Sean", "Lily", "lucy", "Tom"]
 ```
+---
 ## 4. reverse()
 * reverse()：反转数组项的顺序。
 ```
@@ -68,6 +73,7 @@ var arr = [13, 24, 51, 3];
 console.log(arr.reverse()); //[3, 51, 24, 13]
 console.log(arr); //[3, 51, 24, 13](原数组改变)
 ```
+---
 ## 5. concat()
 * concat() ：将参数添加到原数组中。这个方法会先创建当前数组一个副本，然后将接收到的参数添加到这个副本的末尾，最后返回新构建的数组。在没有给 concat()方法传递参数的情况下，它只是复制当前数组并返回副本。
 ```
