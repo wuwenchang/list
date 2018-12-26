@@ -4,7 +4,7 @@
 
 1. **[join()](#1-join())**
 2. **[push()和pop()](#2-push()和pop())**
-3. **[shift和unshift](#3-shift() 和 unshift())**
+3. **[shift()和unshift()](#3-shift()和unshift())**
 4. **[reverse()](#4-reverse())**
 5. **[concat()](#5-concat())**
 6. **[slice()](#6-slice())**
@@ -48,7 +48,7 @@ var item = arr.pop();
 console.log(item); // Sean
 console.log(arr); // ["Lily", "lucy", "Tom", "Jack"]
 ```
-## 3.shift() 和 unshift()
+## 3.shift()和unshift()
 * shift()：删除原数组第一项，并返回删除元素的值；如果数组为空则返回undefined 。 
 * unshift:将参数添加到原数组开头，并返回数组的长度 。
 
