@@ -4,7 +4,7 @@
 
 1. **[join()](#1-join())**
 2. **[push()和pop()](#2-push()和pop())**
-3. **[shift() 和 unshift()](#3-shift() 和 unshift())**
+3. **[shift和unshift](#3-shift() 和 unshift())**
 4. **[reverse()](#4-reverse())**
 5. **[concat()](#5-concat())**
 6. **[slice()](#6-slice())**
