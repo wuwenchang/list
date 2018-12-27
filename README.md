@@ -9,13 +9,13 @@
 5. **[concat()](#5-concat)**
 6. **[slice()](#6-slice)**
 7. **[splice()](#7-splice)**
-8. **[indexOf()和lastIndexOf()（ES5新增）](#8-indexOf和lastIndexOf（ES5新增）)**
-9. **[forEach()（ES5新增）](#9-forEach（ES5新增）)**
-10. **[map()（ES5新增）](#10-map（ES5新增）)**
-11. **[some()（ES5新增）](#11-some（ES5新增）)**
-12. **[every()（ES5新增）](#12-every（ES5新增）)**
-13. **[reduce()和 reduceRight()（ES5新增）](#13-reduce和reduceRight（ES5新增）)**
-14. **[filter()（ES5新增）](#14-filter（ES5新增）)**
+8. **[indexOf()和lastIndexOf()（ES5新增）](#8-indexof和lastindexofes5新增)**
+9. **[forEach()（ES5新增）](#9-forEaches5新增)**
+10. **[map()（ES5新增）](#10-mapes5新增)**
+11. **[some()（ES5新增）](#11-somees5新增)**
+12. **[every()（ES5新增）](#12-everyes5新增)**
+13. **[reduce()和 reduceRight()（ES5新增）](#13-reduce和reduceRightes5新增)**
+14. **[filter()（ES5新增）](#14-filteres5新增)**
 15. **[sort()](#15-sort)**
 ---
 
