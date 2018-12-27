@@ -9,7 +9,7 @@
 5. **[concat()](#5-concat)**
 6. **[slice()](#6-slice)**
 7. **[splice()](#7-splice)**
-8. **[indexOf()和 lastIndexOf() （ES5新增）](#8-indexOf()和 lastIndexOf() （ES5新增）)**
+8. **[indexOf和 lastIndexOf （ES5新增）](#8-indexOf和 lastIndexOf （ES5新增）)**
 9. **[forEach() （ES5新增）](#9-forEach() （ES5新增）)**
 10. **[map() （ES5新增）](#10-map() （ES5新增）)**
 11. **[some() （ES5新增）](#11-some() （ES5新增）)**
